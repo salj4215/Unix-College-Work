@@ -1,0 +1,796 @@
+drwx--x--x sjahaf/users      0 2016-04-27 12:21 home/sjahaf/
+-rw------- sjahaf/users    307 2016-03-17 20:48 home/sjahaf/phone.list
+drwx--x--x sjahaf/users      0 2016-04-07 18:26 home/sjahaf/homework7/
+-rwx--x--x sjahaf/users    192 2016-04-05 18:28 home/sjahaf/homework7/hm7Q2.bash
+-rwx--x--x sjahaf/users    275 2016-04-05 18:23 home/sjahaf/homework7/hm7Q1.bash
+-rwx--x--x sjahaf/users    271 2016-04-05 18:56 home/sjahaf/homework7/hm8Q1.bash
+-rwx--x--x sjahaf/users    158 2016-04-07 18:26 home/sjahaf/homework7/hm8Q3.bash
+-rw------- sjahaf/users  14093 2016-04-27 11:39 home/sjahaf/.bash_history
+drwx--x--x sjahaf/users      0 2016-02-25 00:22 home/sjahaf/chapter5/
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/chapter5/.file1
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/chapter5/name2
+-rw------- sjahaf/users   6855 2016-02-25 00:24 home/sjahaf/chapter5/chapter5ts
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/chapter5/.file2
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/chapter5/.name1
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/chapter5/name1
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/chapter5/file1
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/chapter5/name3
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/chapter5/.file3
+drwxr-xr-x sjahaf/users      0 2014-10-10 13:58 home/sjahaf/.mozilla/
+drwxr-xr-x sjahaf/users      0 2010-08-18 11:44 home/sjahaf/.mozilla/extensions/
+drwxr-xr-x sjahaf/users      0 2010-08-18 11:44 home/sjahaf/.mozilla/plugins/
+-rw------- sjahaf/users   9312 2016-04-26 18:28 home/sjahaf/.viminfo
+drwx--x--x sjahaf/users      0 2016-04-26 18:46 home/sjahaf/home/
+drwx--x--x sjahaf/users      0 2016-04-26 18:41 home/sjahaf/home/sjahaf/
+-rw------- sjahaf/users    307 2016-03-17 20:48 home/sjahaf/home/sjahaf/phone.list
+drwx--x--x sjahaf/users      0 2016-04-07 18:26 home/sjahaf/home/sjahaf/homework7/
+-rwx--x--x sjahaf/users    192 2016-04-05 18:28 home/sjahaf/home/sjahaf/homework7/hm7Q2.bash
+-rwx--x--x sjahaf/users    275 2016-04-05 18:23 home/sjahaf/home/sjahaf/homework7/hm7Q1.bash
+-rwx--x--x sjahaf/users    271 2016-04-05 18:56 home/sjahaf/home/sjahaf/homework7/hm8Q1.bash
+-rwx--x--x sjahaf/users    158 2016-04-07 18:26 home/sjahaf/home/sjahaf/homework7/hm8Q3.bash
+-rw------- sjahaf/users  14270 2016-04-21 18:35 home/sjahaf/home/sjahaf/.bash_history
+drwx--x--x sjahaf/users      0 2016-02-25 00:22 home/sjahaf/home/sjahaf/chapter5/
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/home/sjahaf/chapter5/.file1
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/home/sjahaf/chapter5/name2
+-rw------- sjahaf/users   6855 2016-02-25 00:24 home/sjahaf/home/sjahaf/chapter5/chapter5ts
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/home/sjahaf/chapter5/.file2
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/home/sjahaf/chapter5/.name1
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/home/sjahaf/chapter5/name1
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/home/sjahaf/chapter5/file1
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/home/sjahaf/chapter5/name3
+-rw------- sjahaf/users      0 2016-02-16 18:21 home/sjahaf/home/sjahaf/chapter5/.file3
+drwx--x--x sjahaf/users      0 2014-10-10 13:58 home/sjahaf/home/sjahaf/.mozilla/
+drwx--x--x sjahaf/users      0 2010-08-18 11:44 home/sjahaf/home/sjahaf/.mozilla/extensions/
+drwx--x--x sjahaf/users      0 2010-08-18 11:44 home/sjahaf/home/sjahaf/.mozilla/plugins/
+-rw------- sjahaf/users   9312 2016-04-26 18:28 home/sjahaf/home/sjahaf/.viminfo
+drwx--x--x sjahaf/users      0 2016-03-17 18:11 home/sjahaf/home/sjahaf/chapter9/
+-rw------- sjahaf/users     42 2016-03-03 18:39 home/sjahaf/home/sjahaf/chapter9/count
+-rw------- sjahaf/users     29 2016-03-03 18:34 home/sjahaf/home/sjahaf/chapter9/today
+-rw------- sjahaf/users     52 2016-03-03 18:33 home/sjahaf/home/sjahaf/chapter9/LIST
+-rw------- sjahaf/users     29 2016-03-03 18:46 home/sjahaf/home/sjahaf/chapter9/outfile
+-rw------- sjahaf/users     69 2016-03-17 18:08 home/sjahaf/home/sjahaf/chapter9/grep1
+-rw------- sjahaf/users     11 2016-03-03 18:34 home/sjahaf/home/sjahaf/chapter9/list
+-rw------- sjahaf/users      0 2016-03-03 18:36 home/sjahaf/home/sjahaf/chapter9/sorted
+-rw------- sjahaf/users     99 2016-03-17 18:11 home/sjahaf/home/sjahaf/chapter9/zipcodes
+-rw------- sjahaf/users    171 2014-10-17 18:57 home/sjahaf/home/sjahaf/.kshrc
+drwx--x--x sjahaf/users      0 2016-03-31 19:03 home/sjahaf/home/sjahaf/chapter12/
+-rwx--x--x sjahaf/users    194 2016-03-24 18:12 home/sjahaf/home/sjahaf/chapter12/test4.sh
+-rwx--x--x sjahaf/users    161 2016-03-24 18:16 home/sjahaf/home/sjahaf/chapter12/ntest1.sh
+-rwx--x--x sjahaf/users     89 2016-03-29 17:53 home/sjahaf/home/sjahaf/chapter12/loopFile.ksh
+-rwx--x--x sjahaf/users    220 2016-03-24 18:06 home/sjahaf/home/sjahaf/chapter12/test3.sh
+-rwx--x--x sjahaf/users    184 2016-03-24 18:02 home/sjahaf/home/sjahaf/chapter12/test2.sh
+-rwx--x--x sjahaf/users    157 2016-03-29 18:54 home/sjahaf/home/sjahaf/chapter12/debug2.ksh
+-rwx--x--x sjahaf/users     72 2016-03-29 18:21 home/sjahaf/home/sjahaf/chapter12/whileLoop.ksh
+-rwx--x--x sjahaf/users    127 2016-03-24 18:25 home/sjahaf/home/sjahaf/chapter12/filetest1.ksh
+-rwx--x--x sjahaf/users    107 2016-03-29 18:59 home/sjahaf/home/sjahaf/chapter12/function.ksh
+-rwx--x--x sjahaf/users     94 2016-03-24 19:05 home/sjahaf/home/sjahaf/chapter12/stringtest.ksh
+-rwx--x--x sjahaf/users    111 2016-03-22 18:44 home/sjahaf/home/sjahaf/chapter12/variable.sh
+-rwx--x--x sjahaf/users    211 2016-03-29 18:44 home/sjahaf/home/sjahaf/chapter12/untilLoop2.ksh
+-rwx--x--x sjahaf/users     63 2016-03-29 18:11 home/sjahaf/home/sjahaf/chapter12/forLoopPerl.csh
+-rwx--x--x sjahaf/users    256 2016-03-31 19:03 home/sjahaf/home/sjahaf/chapter12/commandArguments.bash
+-rwx--x--x sjahaf/users    135 2016-03-24 18:43 home/sjahaf/home/sjahaf/chapter12/test6.ksh
+-rwx--x--x sjahaf/users    103 2016-03-29 18:26 home/sjahaf/home/sjahaf/chapter12/whileLoop3.ksh
+-rwx--x--x sjahaf/users     75 2016-03-24 19:03 home/sjahaf/home/sjahaf/chapter12/numtest.ksh
+-rwx--x--x sjahaf/users     58 2016-03-29 17:49 home/sjahaf/home/sjahaf/chapter12/forLoop.ksh
+-rwx--x--x sjahaf/users     76 2016-03-31 18:46 home/sjahaf/home/sjahaf/chapter12/first.bash
+-rw------- sjahaf/users     60 2016-03-22 18:21 home/sjahaf/home/sjahaf/chapter12/outfile
+-rwx--x--x sjahaf/users    122 2016-03-24 17:48 home/sjahaf/home/sjahaf/chapter12/sentence.sh
+-rwx--x--x sjahaf/users    253 2016-03-29 17:37 home/sjahaf/home/sjahaf/chapter12/season.ksh
+-rwx--x--x sjahaf/users     84 2016-03-29 18:12 home/sjahaf/home/sjahaf/chapter12/forEachPerl.perl
+-rwx--x--x sjahaf/users     82 2016-03-29 17:57 home/sjahaf/home/sjahaf/chapter12/forLoopReadVar.ksh
+-rwx--x--x sjahaf/users    111 2016-03-29 18:42 home/sjahaf/home/sjahaf/chapter12/untilLoop.ksh
+-rwx--x--x sjahaf/users    110 2016-03-22 19:03 home/sjahaf/home/sjahaf/chapter12/kshtest.ksh
+-rwx--x--x sjahaf/users    167 2016-03-24 18:23 home/sjahaf/home/sjahaf/chapter12/ntest2.ksh
+-rwx--x--x sjahaf/users    135 2016-03-24 17:57 home/sjahaf/home/sjahaf/chapter12/test1.sh
+-rwx--x--x sjahaf/users    126 2016-03-24 18:33 home/sjahaf/home/sjahaf/chapter12/test2.ksh
+-rwx--x--x sjahaf/users    126 2016-03-29 18:30 home/sjahaf/home/sjahaf/chapter12/whileLoop4.sh
+-rwx--x--x sjahaf/users     96 2016-03-24 17:40 home/sjahaf/home/sjahaf/chapter12/read.sh
+-rwx--x--x sjahaf/users    158 2016-03-24 18:48 home/sjahaf/home/sjahaf/chapter12/arg.ksh
+-rwx--x--x sjahaf/users    153 2016-03-29 18:51 home/sjahaf/home/sjahaf/chapter12/debug.ksh
+-rw------- sjahaf/users     19 2016-03-29 17:51 home/sjahaf/home/sjahaf/chapter12/file1
+-rwx--x--x sjahaf/users    190 2016-03-24 18:57 home/sjahaf/home/sjahaf/chapter12/grave.sh
+-rwx--x--x sjahaf/users    358 2016-03-29 19:06 home/sjahaf/home/sjahaf/chapter12/sqrtFunction.ksh
+-rwx--x--x sjahaf/users    279 2016-03-29 17:43 home/sjahaf/home/sjahaf/chapter12/seasonCase.csh
+-rwx--x--x sjahaf/users    113 2016-03-24 18:35 home/sjahaf/home/sjahaf/chapter12/test3.ksh
+-rwx--x--x sjahaf/users    109 2016-03-29 18:32 home/sjahaf/home/sjahaf/chapter12/whilePerl.perl
+drwx--x--x sjahaf/users      0 2016-02-11 19:05 home/sjahaf/home/sjahaf/homework3/
+-rw------- sjahaf/users    978 2016-02-11 19:05 home/sjahaf/home/sjahaf/homework3/homework3.output
+-rw------- sjahaf/users    841 2016-02-11 19:02 home/sjahaf/home/sjahaf/homework3/homework3.txt
+-rw------- sjahaf/users    243 2016-02-11 19:05 home/sjahaf/home/sjahaf/homework3/homework3.sh
+-rwx--x--x sjahaf/users    256 2016-03-31 19:03 home/sjahaf/home/sjahaf/commandArguments.bash
+-rw------- sjahaf/users    271 2016-04-14 21:05 home/sjahaf/home/sjahaf/.bashrc
+-rw------- sjahaf/users    307 2016-03-17 20:58 home/sjahaf/home/sjahaf/phone.number
+-rw------- sjahaf/users    267 2016-03-17 19:05 home/sjahaf/home/sjahaf/tsCh9Q7
+-rw------- sjahaf/users    176 2014-10-16 09:56 home/sjahaf/home/sjahaf/.bash_profile
+drwx--x--x sjahaf/users      0 2016-04-26 17:26 home/sjahaf/home/sjahaf/chapter13TS/
+drwx--x--x sjahaf/users      0 2016-04-26 18:07 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/
+-rw------- sjahaf/users    170 2015-04-12 14:00 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/sqroot1.cpp
+-rw------- sjahaf/users      9 2016-04-26 17:57 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/side2
+-rw------- sjahaf/users      9 2016-04-26 17:57 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/side1
+-rw------- sjahaf/users    181 2015-04-12 14:02 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/sqrt.cpp
+-rwx--x--x sjahaf/users   7189 2016-04-26 17:32 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/hyp
+-rw------- sjahaf/users    243 2014-10-28 15:22 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/hypotenuse.cpp
+-rw------- sjahaf/users    178 2016-04-26 18:07 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/done
+-rwx--x--x sjahaf/users    507 2016-04-26 17:55 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/hyp2.ksh
+-rwx--x--x sjahaf/users    492 2016-04-26 17:37 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/hyp.bash
+-rwx--x--x sjahaf/users    714 2016-04-26 18:06 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/hyp3.ksh
+-rw------- sjahaf/users    721 2013-11-17 16:53 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/triangle1.c
+-rw------- sjahaf/users   1132 2013-11-17 16:53 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/triangle.c
+-rw------- sjahaf/users    176 2013-11-17 16:53 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/add.c
+-rw------- sjahaf/users    243 2014-10-28 15:22 home/sjahaf/home/sjahaf/chapter13TS/chapter13ts/hypotenuse.c
+drwx--x--x sjahaf/users      0 2016-04-14 22:15 home/sjahaf/home/sjahaf/homework10/
+-rwx--x--x sjahaf/users   1334 2016-04-14 22:15 home/sjahaf/home/sjahaf/homework10/homework10.ksh
+-rw------- sjahaf/users    134 2016-04-14 19:07 home/sjahaf/home/sjahaf/homework10/sales.file
+drwx--x--x sjahaf/users      0 2015-05-20 09:53 home/sjahaf/home/sjahaf/public_html/
+drwx------ sjahaf/users      0 2015-05-20 09:53 home/sjahaf/home/sjahaf/public_html/cis122/
+-rw------- sjahaf/users     81 2015-05-07 23:50 home/sjahaf/home/sjahaf/public_html/cis122/style3.css
+-rw------- sjahaf/users  31871 2015-02-23 19:14 home/sjahaf/home/sjahaf/public_html/cis122/alfredo.jpg
+-rw------- sjahaf/users    695 2015-05-08 10:46 home/sjahaf/home/sjahaf/public_html/cis122/final.php
+-rw------- sjahaf/users  10793 2015-04-22 18:28 home/sjahaf/home/sjahaf/public_html/cis122/order.php
+-rw------- sjahaf/users  75776 2015-03-30 19:17 home/sjahaf/home/sjahaf/public_html/cis122/Thumbs.db
+-rw------- sjahaf/users   3696 2015-03-02 19:09 home/sjahaf/home/sjahaf/public_html/cis122/menu2.html
+-rw------- sjahaf/users    468 2015-04-27 19:18 home/sjahaf/home/sjahaf/public_html/cis122/assign6a.php
+-rw------- sjahaf/users    423 2015-04-08 18:44 home/sjahaf/home/sjahaf/public_html/cis122/functions.js
+-rw------- sjahaf/users  10406 2015-03-25 19:19 home/sjahaf/home/sjahaf/public_html/cis122/order.html
+-rw------- sjahaf/users   1084 2015-05-08 09:50 home/sjahaf/home/sjahaf/public_html/cis122/assign6b.php
+-rw------- sjahaf/users  35873 2015-03-02 18:51 home/sjahaf/home/sjahaf/public_html/cis122/bananasplit.jpg
+-rw------- sjahaf/users    710 2015-05-08 01:26 home/sjahaf/home/sjahaf/public_html/cis122/bill.php
+-rw------- sjahaf/users 135032 2015-02-23 19:14 home/sjahaf/home/sjahaf/public_html/cis122/header.jpg
+-rw------- sjahaf/users    544 2015-05-08 01:21 home/sjahaf/home/sjahaf/public_html/cis122/Bill.php
+-rw------- sjahaf/users  59608 2015-03-30 18:56 home/sjahaf/home/sjahaf/public_html/cis122/pastrami.jpg
+-rw------- sjahaf/users   1473 2015-04-13 19:19 home/sjahaf/home/sjahaf/public_html/cis122/style.css
+-rw------- sjahaf/users   8556 2015-04-08 18:44 home/sjahaf/home/sjahaf/public_html/cis122/creditcard.js
+-rw------- sjahaf/users   5111 2015-04-27 18:03 home/sjahaf/home/sjahaf/public_html/cis122/order2.php
+-rw------- sjahaf/users   1056 2015-05-08 10:49 home/sjahaf/home/sjahaf/public_html/cis122/final.html
+-rw------- sjahaf/users  26943 2015-03-01 20:45 home/sjahaf/home/sjahaf/public_html/cis122/nachos.jpg
+-rw------- sjahaf/users   3601 2015-03-02 19:09 home/sjahaf/home/sjahaf/public_html/cis122/menu.html
+-rw------- sjahaf/users    249 2015-05-08 10:50 home/sjahaf/home/sjahaf/public_html/cis122/final.css
+drwx--x--x sjahaf/users      0 2016-04-26 18:47 home/sjahaf/home/sjahaf/chapter14TS/
+-rwx--x--x sjahaf/users    173 2015-12-07 09:36 home/sjahaf/home/sjahaf/chapter14TS/countdown.py
+-rw------- sjahaf/users   4626 2015-04-19 11:48 home/sjahaf/home/sjahaf/chapter14TS/Hidden
+-rw------- sjahaf/users     96 2016-04-26 18:27 home/sjahaf/home/sjahaf/chapter14TS/.plan
+-rwx--x--x sjahaf/users    581 2015-12-07 09:27 home/sjahaf/home/sjahaf/chapter14TS/countdown.ksh
+-rw------- sjahaf/users   4626 2015-04-19 11:48 home/sjahaf/home/sjahaf/chapter14TS/BIG_FILE
+-rw------- sjahaf/users     71 2016-04-26 18:28 home/sjahaf/home/sjahaf/chapter14TS/.project
+-rwx--x--x sjahaf/users    184 2015-04-19 12:09 home/sjahaf/home/sjahaf/chapter14TS/test.ksh
+-rwx--x--x sjahaf/users    242 2015-04-19 12:12 home/sjahaf/home/sjahaf/chapter14TS/test1.py
+-rw------- sjahaf/users    172 2016-03-15 19:11 home/sjahaf/home/sjahaf/file.tee
+drwx--x--x sjahaf/users      0 2016-01-14 17:45 home/sjahaf/home/sjahaf/chapter1/
+-rw------- sjahaf/users    125 2016-03-29 18:07 home/sjahaf/home/sjahaf/.history
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/
+-rwx--x--x sjahaf/users   2201 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 2-3.vls
+-rwx--x--x sjahaf/users   3128 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 2-4.vls
+-rwx--x--x sjahaf/users   9126 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 5-2.vls
+-rwx--x--x sjahaf/users   4986 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 3-4.vls
+-rwx--x--x sjahaf/users   4839 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 2-8.vls
+-rwx--x--x sjahaf/users   5123 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 1-6.vls
+-rwx--x--x sjahaf/users  10900 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/VBProgram1.vls
+-rwx--x--x sjahaf/users   2372 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 4-2.vls
+-rwx--x--x sjahaf/users   5639 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 3-3.vls
+-rwx--x--x sjahaf/users   3891 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 1-7.vls
+-rwx--x--x sjahaf/users   3486 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 4-3.vls
+-rwx--x--x sjahaf/users   4892 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 2-7.vls
+-rwx--x--x sjahaf/users   1972 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 3-4.vls
+-rwx--x--x sjahaf/users     64 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/SallehJahaf.vlsig
+-rwx--x--x sjahaf/users   2183 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 2-9.vls
+-rwx--x--x sjahaf/users   3567 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 2-3.vls
+-rwx--x--x sjahaf/users   1871 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 1-4.vls
+-rwx--x--x sjahaf/users   7999 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 3-Bonus.vls
+-rwx--x--x sjahaf/users  10701 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 5-2.vls
+-rwx--x--x sjahaf/users   3091 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 3-7.vls
+-rwx--x--x sjahaf/users   2913 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 3-6.vls
+-rwx--x--x sjahaf/users   6633 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 4-4.vls
+-rwx--x--x sjahaf/users   3338 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 2-7.vls
+-rwx--x--x sjahaf/users   4086 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 2-5.vls
+-rwx--x--x sjahaf/users   8386 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 4-4.vls
+-rwx--x--x sjahaf/users   4848 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/Assignment 2-4.vls
+-rwx--x--x sjahaf/users   4795 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 1-7.vls
+-rwx--x--x sjahaf/users   2401 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 3-5.vls
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/
+-rwx--x--x sjahaf/users    143 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/VB Example.vbproj.user
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/
+-rwx--x--x sjahaf/users  25088 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.exe
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/TempPE/
+-rwx--x--x sjahaf/users   7680 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+-rwx--x--x sjahaf/users    917 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.vbproj.GenerateResource.Cache
+-rwx--x--x sjahaf/users    180 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB_Example.Resources.resources
+-rwx--x--x sjahaf/users   6512 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+-rwx--x--x sjahaf/users  36352 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.pdb
+-rwx--x--x sjahaf/users    673 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.vbproj.FileListAbsolute.txt
+-rwx--x--x sjahaf/users    674 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.xml
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Release/
+-rwx--x--x sjahaf/users    834 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/Module1.vb
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/App.config
+-rwx--x--x sjahaf/users  32256 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/VB Example.v11.suo
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/
+-rwx--x--x sjahaf/users  25088 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.exe
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.exe.config
+-rwx--x--x sjahaf/users  36352 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.pdb
+-rwx--x--x sjahaf/users  22984 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.vshost.exe
+-rwx--x--x sjahaf/users    674 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.xml
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.vshost.exe.config
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Release/
+-rwx--x--x sjahaf/users    909 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/VB Example.sln
+-rwx--x--x sjahaf/users   4816 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/VB Example.vbproj
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/
+-rwx--x--x sjahaf/users   5612 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Resources.resx
+-rwx--x--x sjahaf/users   1173 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/AssemblyInfo.vb
+-rwx--x--x sjahaf/users   2781 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Resources.Designer.vb
+-rwx--x--x sjahaf/users    481 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Application.myapp
+-rwx--x--x sjahaf/users    279 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Settings.settings
+-rwx--x--x sjahaf/users    441 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Application.Designer.vb
+-rwx--x--x sjahaf/users   2999 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Settings.Designer.vb
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/PracticeEx 6-1/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/PracticeEx 6-1/My Project/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/
+-rwx--x--x sjahaf/users    929 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Annual Sales Project.sln
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/
+-rwx--x--x sjahaf/users    917 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.vbproj.GenerateResource.Cache
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/TempPE/
+-rwx--x--x sjahaf/users   7680 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+-rwx--x--x sjahaf/users    180 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual_Sales_Project.Resources.resources
+-rwx--x--x sjahaf/users    716 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.xml
+-rwx--x--x sjahaf/users   6562 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+-rwx--x--x sjahaf/users  40448 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.pdb
+-rwx--x--x sjahaf/users  26624 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.exe
+-rwx--x--x sjahaf/users    873 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.vbproj.FileListAbsolute.txt
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Release/
+-rwx--x--x sjahaf/users   3516 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Module1.vb
+-rwx--x--x sjahaf/users    143 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Annual Sales Project.vbproj.user
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/App.config
+-rwx--x--x sjahaf/users   4866 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Annual Sales Project.vbproj
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.exe.config
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.vshost.exe.config
+-rwx--x--x sjahaf/users    716 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.xml
+-rwx--x--x sjahaf/users  22984 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.vshost.exe
+-rwx--x--x sjahaf/users  40448 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.pdb
+-rwx--x--x sjahaf/users  26624 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.exe
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Release/
+-rwx--x--x sjahaf/users  35328 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Annual Sales Project.v11.suo
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/
+-rwx--x--x sjahaf/users   5612 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Resources.resx
+-rwx--x--x sjahaf/users   1193 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/AssemblyInfo.vb
+-rwx--x--x sjahaf/users   2791 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Resources.Designer.vb
+-rwx--x--x sjahaf/users    481 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Application.myapp
+-rwx--x--x sjahaf/users    279 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Settings.settings
+-rwx--x--x sjahaf/users    441 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Application.Designer.vb
+-rwx--x--x sjahaf/users   3019 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Settings.Designer.vb
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/TempPE/
+-rwx--x--x sjahaf/users   7680 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+-rwx--x--x sjahaf/users    672 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.xml
+-rwx--x--x sjahaf/users   1403 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.vbproj.FileListAbsolute.txt
+-rwx--x--x sjahaf/users   6512 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+-rwx--x--x sjahaf/users    917 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.vbproj.GenerateResource.Cache
+-rwx--x--x sjahaf/users  38400 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.pdb
+-rwx--x--x sjahaf/users  25600 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.exe
+-rwx--x--x sjahaf/users    180 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.Resources.resources
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Release/
+-rwx--x--x sjahaf/users   1846 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/Module1.vb
+-rwx--x--x sjahaf/users  27136 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/VBProgram1.v11.suo
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/App.config
+-rwx--x--x sjahaf/users    143 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/VBProgram1.vbproj.user
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.vshost.exe.config
+-rwx--x--x sjahaf/users    187 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.exe.config
+-rwx--x--x sjahaf/users  22984 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.vshost.exe
+-rwx--x--x sjahaf/users    490 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.vshost.exe.manifest
+-rwx--x--x sjahaf/users    672 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.xml
+-rwx--x--x sjahaf/users  38400 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.pdb
+-rwx--x--x sjahaf/users  25600 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.exe
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Release/
+-rwx--x--x sjahaf/users   4816 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/VBProgram1.vbproj
+-rwx--x--x sjahaf/users    909 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/VBProgram1.sln
+drwx--x--x sjahaf/users      0 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/
+-rwx--x--x sjahaf/users   5612 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Resources.resx
+-rwx--x--x sjahaf/users   1173 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/AssemblyInfo.vb
+-rwx--x--x sjahaf/users   2781 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Resources.Designer.vb
+-rwx--x--x sjahaf/users    481 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Application.myapp
+-rwx--x--x sjahaf/users    279 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Settings.settings
+-rwx--x--x sjahaf/users    441 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Application.Designer.vb
+-rwx--x--x sjahaf/users   2999 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Settings.Designer.vb
+-rwx--x--x sjahaf/users   2942 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 4-3.vls
+-rwx--x--x sjahaf/users   2319 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 1-8.vls
+-rwx--x--x sjahaf/users   1715 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 3-3.vls
+-rwx--x--x sjahaf/users   3340 2015-04-15 10:21 home/sjahaf/home/sjahaf/Cis125/PracticeEx 2-11.vls
+drwx--x--x sjahaf/users      0 2016-01-25 22:36 home/sjahaf/home/sjahaf/chapter3/
+-rw------- sjahaf/users     74 2016-01-21 19:04 home/sjahaf/home/sjahaf/chapter3/ts3Number2
+-rw------- sjahaf/users     11 2016-01-21 18:43 home/sjahaf/home/sjahaf/chapter3/ts3example
+-rw------- sjahaf/users    155 2016-01-25 22:35 home/sjahaf/home/sjahaf/chapter3/ts3Number4
+-rw------- sjahaf/users    200 2016-01-21 18:50 home/sjahaf/home/sjahaf/chapter3/ts3Number1
+-rw------- sjahaf/users   2055 2016-01-25 22:36 home/sjahaf/home/sjahaf/chapter3/ts3Number5
+-rw------- sjahaf/users     36 2016-01-21 19:08 home/sjahaf/home/sjahaf/chapter3/ts3Number3
+-rw------- sjahaf/users     88 2016-03-17 21:34 home/sjahaf/home/sjahaf/first.mail
+-rw------- sjahaf/users    440 2016-03-17 22:12 home/sjahaf/home/sjahaf/dead.letter
+drwx--x--x sjahaf/users      0 2016-04-19 17:32 home/sjahaf/home/sjahaf/chapter14/
+drwx--x--x sjahaf/users      0 2016-04-19 18:40 home/sjahaf/home/sjahaf/chapter14/chapter14/
+-rwx--x--x sjahaf/users    173 2015-12-07 09:36 home/sjahaf/home/sjahaf/chapter14/chapter14/countdown.py
+-rw------- sjahaf/users   4626 2015-04-19 11:48 home/sjahaf/home/sjahaf/chapter14/chapter14/Hidden
+-rw------- sjahaf/users    126 2015-12-07 09:47 home/sjahaf/home/sjahaf/chapter14/chapter14/.plan
+-rwx--x--x sjahaf/users    581 2015-12-07 09:27 home/sjahaf/home/sjahaf/chapter14/chapter14/countdown.ksh
+-rw------- sjahaf/users 2919025 2016-04-19 18:28 home/sjahaf/home/sjahaf/chapter14/chapter14/etc1.tar.gz
+-rw------- sjahaf/users 2227218 2016-04-19 18:28 home/sjahaf/home/sjahaf/chapter14/chapter14/etc2.tar.bz2
+-rw------- sjahaf/users    4626 2015-04-19 11:48 home/sjahaf/home/sjahaf/chapter14/chapter14/BIG_FILE
+-rw------- sjahaf/users       0 2016-04-19 18:14 home/sjahaf/home/sjahaf/chapter14/chapter14/George
+-rwx--x--x sjahaf/users     184 2015-04-19 12:09 home/sjahaf/home/sjahaf/chapter14/chapter14/test.ksh
+-rwx--x--x sjahaf/users     242 2015-04-19 12:12 home/sjahaf/home/sjahaf/chapter14/chapter14/test1.py
+-rw------- sjahaf/users 10209280 2016-04-19 18:28 home/sjahaf/home/sjahaf/chapter14/chapter14/etc.tar
+-rw------- sjahaf/users       96 2016-04-26 18:27 home/sjahaf/home/sjahaf/.plan
+-rw------- sjahaf/users       35 2016-02-11 17:36 home/sjahaf/home/sjahaf/.lesshst
+-rw------- sjahaf/users       18 2014-10-16 09:56 home/sjahaf/home/sjahaf/.bash_logout
+drwx--x--x sjahaf/users        0 2016-02-12 21:04 home/sjahaf/home/sjahaf/chapter6/
+-rw------- sjahaf/users     1793 2016-02-12 21:04 home/sjahaf/home/sjahaf/chapter6/chapter6.output3
+-rw------- sjahaf/users      904 2016-02-12 20:48 home/sjahaf/home/sjahaf/chapter6/chapter6.output2
+-rw------- sjahaf/users     1786 2016-02-12 21:04 home/sjahaf/home/sjahaf/chapter6/garden
+-rw------- sjahaf/users      860 2016-02-12 20:29 home/sjahaf/home/sjahaf/chapter6/chapter6.output1
+drwx--x--x sjahaf/users        0 2016-03-17 21:48 home/sjahaf/home/sjahaf/email/
+-rw------- sjahaf/users      235 2016-03-17 22:12 home/sjahaf/home/sjahaf/email/first.mail
+-rw------- sjahaf/users        0 2016-03-17 21:24 home/sjahaf/home/sjahaf/email/mbox
+-rw------- sjahaf/users        0 2016-03-17 21:24 home/sjahaf/home/sjahaf/email/keep
+drwx--x--x sjahaf/users        0 2016-02-25 21:10 home/sjahaf/home/sjahaf/chapter8/
+-rw------- sjahaf/users       61 2016-02-25 00:33 home/sjahaf/home/sjahaf/chapter8/ch8ts.txt
+drwx--x--x sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/two/
+-rw------- sjahaf/users       24 2014-02-18 13:28 home/sjahaf/home/sjahaf/chapter8/names
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/name2
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/file3
+drwx------ sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/one/
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/file2
+-rwx--x--x sjahaf/users        6 2016-02-25 21:10 home/sjahaf/home/sjahaf/chapter8/filepermissions
+drwx--x--x sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/three/
+-rwx--x--x sjahaf/users       18 2016-02-25 20:15 home/sjahaf/home/sjahaf/chapter8/find_file1
+drwx--x--x sjahaf/users        0 2016-02-12 17:36 home/sjahaf/home/sjahaf/chapter8/chapter8/
+-rw------- sjahaf/users      425 2015-02-05 18:17 home/sjahaf/home/sjahaf/chapter8/chapter8/ch8ts.txt
+-rw------- sjahaf/users       24 2014-02-18 13:44 home/sjahaf/home/sjahaf/chapter8/chapter8/first
+-rw------- sjahaf/users       24 2014-02-18 13:28 home/sjahaf/home/sjahaf/chapter8/chapter8/names
+-rw------- sjahaf/users       24 2014-02-18 13:19 home/sjahaf/home/sjahaf/chapter8/chapter8/name2
+-rw------- sjahaf/users       12 2014-02-18 13:44 home/sjahaf/home/sjahaf/chapter8/chapter8/second
+-rw------- sjahaf/users      124 2014-02-18 13:42 home/sjahaf/home/sjahaf/chapter8/chapter8/phone
+-rw------- sjahaf/users        0 2014-02-18 13:33 home/sjahaf/home/sjahaf/chapter8/chapter8/FILE1
+-rw------- sjahaf/users    10531 2014-10-16 18:03 home/sjahaf/home/sjahaf/chapter8/chapter8/large
+-rw------- sjahaf/users        0 2014-02-18 13:33 home/sjahaf/home/sjahaf/chapter8/chapter8/File1
+-rw------- sjahaf/users       12 2014-02-18 13:21 home/sjahaf/home/sjahaf/chapter8/chapter8/scores
+-rw------- sjahaf/users       24 2014-02-18 13:28 home/sjahaf/home/sjahaf/chapter8/chapter8/name1
+-rw------- sjahaf/users      425 2015-02-05 18:17 home/sjahaf/home/sjahaf/chapter8/chapter8/science.txt
+-rw------- sjahaf/users       12 2014-02-18 13:21 home/sjahaf/home/sjahaf/chapter8/scores
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/name1
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/file1
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/home/sjahaf/chapter8/name3
+-rw------- sjahaf/users      425 2015-02-05 18:17 home/sjahaf/home/sjahaf/chapter8/science.txt
+-rw------- sjahaf/users       71 2016-04-26 18:28 home/sjahaf/home/sjahaf/.project
+-rw------- sjahaf/users        0 2016-03-17 22:05 home/sjahaf/home/sjahaf/.forward
+drwx--x--x sjahaf/users        0 2016-02-04 18:56 home/sjahaf/home/sjahaf/Chapter4/
+-rw------- sjahaf/users      160 2016-01-26 18:17 home/sjahaf/home/sjahaf/Chapter4/first
+-rw------- sjahaf/users      788 2016-01-26 18:37 home/sjahaf/home/sjahaf/Chapter4/second
+-rw------- sjahaf/users       21 2016-02-02 17:44 home/sjahaf/home/sjahaf/Chapter4/file3
+-rw------- sjahaf/users       88 2016-02-02 18:01 home/sjahaf/home/sjahaf/Chapter4/file2
+-rw------- sjahaf/users      148 2016-02-04 18:41 home/sjahaf/home/sjahaf/Chapter4/Chapter4.output1
+-rw------- sjahaf/users      630 2016-02-04 18:49 home/sjahaf/home/sjahaf/Chapter4/Chapter4
+-rw------- sjahaf/users      630 2016-02-04 18:56 home/sjahaf/home/sjahaf/Chapter4/Chapter4.output4
+-rw------- sjahaf/users      505 2016-02-04 18:45 home/sjahaf/home/sjahaf/Chapter4/Chapter4.output2
+-rwx--x--x sjahaf/users      194 2016-02-02 18:24 home/sjahaf/home/sjahaf/Chapter4/file1
+-rw------- sjahaf/users     1260 2016-02-04 18:54 home/sjahaf/home/sjahaf/Chapter4/Chapter4.output3
+-rw------- sjahaf/users      307 2016-03-17 20:56 home/sjahaf/home/sjahaf/phone.lastname
+-rw------- sjahaf/users        0 2016-03-17 22:10 home/sjahaf/home/sjahaf/mbox
+-rw------- sjahaf/users       36 2016-03-17 21:22 home/sjahaf/home/sjahaf/.mailrc
+-rw------- sjahaf/users      658 2014-11-05 06:20 home/sjahaf/home/sjahaf/.zshrc
+-rw------- sjahaf/users      307 2016-03-17 20:59 home/sjahaf/home/sjahaf/phone.reverse
+drwx--x--x sjahaf/users        0 2016-04-21 18:31 home/sjahaf/home/sjahaf/project1/
+-rwx--x--x sjahaf/users      476 2016-04-21 18:30 home/sjahaf/home/sjahaf/project1/project1.sh
+-rw------- sjahaf/users     1468 2016-04-21 18:31 home/sjahaf/home/sjahaf/project1/output.txt
+-rw------- sjahaf/users       23 2016-02-02 18:11 home/sjahaf/home/sjahaf/.vimrc
+-rw------- sjahaf/users       85 2016-02-23 18:10 home/sjahaf/home/sjahaf/myfile
+drwx--x--x sjahaf/users        0 2016-03-31 18:33 home/sjahaf/home/sjahaf/chapter11/
+drwx--x--x sjahaf/users        0 2016-03-31 18:24 home/sjahaf/home/sjahaf/chapter11/auto/
+drwx--x--x sjahaf/users        0 2016-03-31 18:32 home/sjahaf/home/sjahaf/chapter11/auto/auto/
+-rw------- sjahaf/users       92 2014-01-14 18:57 home/sjahaf/home/sjahaf/chapter11/auto/auto/hi.cpp
+-rw------- sjahaf/users      178 2014-10-28 15:24 home/sjahaf/home/sjahaf/chapter11/auto/auto/sqroot.c
+-rw------- sjahaf/users      259 2016-03-31 18:32 home/sjahaf/home/sjahaf/chapter11/auto/auto/Makefile
+-rw------- sjahaf/users       78 2013-11-17 16:53 home/sjahaf/home/sjahaf/chapter11/auto/auto/hello.c
+-rwx--x--x sjahaf/users     6417 2016-03-31 18:31 home/sjahaf/home/sjahaf/chapter11/auto/auto/hello
+-rwx--x--x sjahaf/users     8789 2016-03-31 18:07 home/sjahaf/home/sjahaf/chapter11/hyp
+-rwx--x--x sjahaf/users     6980 2016-03-15 18:52 home/sjahaf/home/sjahaf/chapter11/add
+-rw------- sjahaf/users       56 2016-03-31 18:33 home/sjahaf/home/sjahaf/chapter11/hyp.output
+-rwx--x--x sjahaf/users     6611 2016-03-31 17:34 home/sjahaf/home/sjahaf/chapter11/a.out
+-rwx--x--x sjahaf/users     8789 2016-03-15 18:33 home/sjahaf/home/sjahaf/chapter11/hypotenuse
+-rw------- sjahaf/users      209 2016-03-31 17:37 home/sjahaf/home/sjahaf/chapter11/add.c
+drwx--x--x sjahaf/users        0 2016-03-31 17:57 home/sjahaf/home/sjahaf/chapter11/chapter11/
+drwx--x--x sjahaf/users        0 2016-03-11 13:48 home/sjahaf/home/sjahaf/chapter11/chapter11/auto/
+-rw------- sjahaf/users       92 2014-01-14 18:57 home/sjahaf/home/sjahaf/chapter11/chapter11/auto/hi.cpp
+-rw------- sjahaf/users      178 2014-10-28 15:24 home/sjahaf/home/sjahaf/chapter11/chapter11/auto/sqroot.c
+-rw------- sjahaf/users       78 2013-11-17 16:53 home/sjahaf/home/sjahaf/chapter11/chapter11/auto/hello.c
+-rwx--x--x sjahaf/users     8789 2016-03-31 17:57 home/sjahaf/home/sjahaf/chapter11/chapter11/hyp
+-rwx--x--x sjahaf/users     6611 2016-03-31 17:45 home/sjahaf/home/sjahaf/chapter11/chapter11/a.out
+-rw------- sjahaf/users      179 2015-03-25 11:45 home/sjahaf/home/sjahaf/chapter11/chapter11/add.c
+-rw------- sjahaf/users      339 2015-11-08 14:19 home/sjahaf/home/sjahaf/chapter11/chapter11/hypotenuse.c
+-rw------- sjahaf/users      339 2015-11-08 14:19 home/sjahaf/home/sjahaf/chapter11/hypotenuse.c
+-rw------- sjahaf/users      307 2016-03-17 20:49 home/sjahaf/home/sjahaf/phone.firstname
+-rw------- sjahaf/users        0 2016-03-17 22:10 home/sjahaf/home/sjahaf/keep
+-rwx--x--x sjahaf/users       94 2015-04-20 18:52 home/sjahaf/home/sjahaf/logincode.php
+drwx--x--x sjahaf/users        0 2016-03-17 18:11 home/sjahaf/chapter9/
+-rw------- sjahaf/users       42 2016-03-03 18:39 home/sjahaf/chapter9/count
+-rw------- sjahaf/users       29 2016-03-03 18:34 home/sjahaf/chapter9/today
+-rw------- sjahaf/users       52 2016-03-03 18:33 home/sjahaf/chapter9/LIST
+-rw------- sjahaf/users       29 2016-03-03 18:46 home/sjahaf/chapter9/outfile
+-rw------- sjahaf/users       69 2016-03-17 18:08 home/sjahaf/chapter9/grep1
+-rw------- sjahaf/users       11 2016-03-03 18:34 home/sjahaf/chapter9/list
+-rw------- sjahaf/users        0 2016-03-03 18:36 home/sjahaf/chapter9/sorted
+-rw------- sjahaf/users       99 2016-03-17 18:11 home/sjahaf/chapter9/zipcodes
+-rw-r--r-- sjahaf/users      171 2014-10-17 18:57 home/sjahaf/.kshrc
+drwx--x--x sjahaf/users        0 2016-03-31 19:03 home/sjahaf/chapter12/
+-rwx--x--x sjahaf/users      194 2016-03-24 18:12 home/sjahaf/chapter12/test4.sh
+-rwx--x--x sjahaf/users      161 2016-03-24 18:16 home/sjahaf/chapter12/ntest1.sh
+-rwx--x--x sjahaf/users       89 2016-03-29 17:53 home/sjahaf/chapter12/loopFile.ksh
+-rwx--x--x sjahaf/users      220 2016-03-24 18:06 home/sjahaf/chapter12/test3.sh
+-rwx--x--x sjahaf/users      184 2016-03-24 18:02 home/sjahaf/chapter12/test2.sh
+-rwx--x--x sjahaf/users      157 2016-03-29 18:54 home/sjahaf/chapter12/debug2.ksh
+-rwx--x--x sjahaf/users       72 2016-03-29 18:21 home/sjahaf/chapter12/whileLoop.ksh
+-rwx--x--x sjahaf/users      127 2016-03-24 18:25 home/sjahaf/chapter12/filetest1.ksh
+-rwx--x--x sjahaf/users      107 2016-03-29 18:59 home/sjahaf/chapter12/function.ksh
+-rwx--x--x sjahaf/users       94 2016-03-24 19:05 home/sjahaf/chapter12/stringtest.ksh
+-rwx--x--x sjahaf/users      111 2016-03-22 18:44 home/sjahaf/chapter12/variable.sh
+-rwx--x--x sjahaf/users      211 2016-03-29 18:44 home/sjahaf/chapter12/untilLoop2.ksh
+-rwx--x--x sjahaf/users       63 2016-03-29 18:11 home/sjahaf/chapter12/forLoopPerl.csh
+-rwx--x--x sjahaf/users      256 2016-03-31 19:03 home/sjahaf/chapter12/commandArguments.bash
+-rwx--x--x sjahaf/users      135 2016-03-24 18:43 home/sjahaf/chapter12/test6.ksh
+-rwx--x--x sjahaf/users      103 2016-03-29 18:26 home/sjahaf/chapter12/whileLoop3.ksh
+-rwx--x--x sjahaf/users       75 2016-03-24 19:03 home/sjahaf/chapter12/numtest.ksh
+-rwx--x--x sjahaf/users       58 2016-03-29 17:49 home/sjahaf/chapter12/forLoop.ksh
+-rwx--x--x sjahaf/users       76 2016-03-31 18:46 home/sjahaf/chapter12/first.bash
+-rw------- sjahaf/users       60 2016-03-22 18:21 home/sjahaf/chapter12/outfile
+-rwx--x--x sjahaf/users      122 2016-03-24 17:48 home/sjahaf/chapter12/sentence.sh
+-rwx--x--x sjahaf/users      253 2016-03-29 17:37 home/sjahaf/chapter12/season.ksh
+-rwx--x--x sjahaf/users       84 2016-03-29 18:12 home/sjahaf/chapter12/forEachPerl.perl
+-rwx--x--x sjahaf/users       82 2016-03-29 17:57 home/sjahaf/chapter12/forLoopReadVar.ksh
+-rwx--x--x sjahaf/users      111 2016-03-29 18:42 home/sjahaf/chapter12/untilLoop.ksh
+-rwx--x--x sjahaf/users      110 2016-03-22 19:03 home/sjahaf/chapter12/kshtest.ksh
+-rwx--x--x sjahaf/users      167 2016-03-24 18:23 home/sjahaf/chapter12/ntest2.ksh
+-rwx--x--x sjahaf/users      135 2016-03-24 17:57 home/sjahaf/chapter12/test1.sh
+-rwx--x--x sjahaf/users      126 2016-03-24 18:33 home/sjahaf/chapter12/test2.ksh
+-rwx--x--x sjahaf/users      126 2016-03-29 18:30 home/sjahaf/chapter12/whileLoop4.sh
+-rwx--x--x sjahaf/users       96 2016-03-24 17:40 home/sjahaf/chapter12/read.sh
+-rwx--x--x sjahaf/users      158 2016-03-24 18:48 home/sjahaf/chapter12/arg.ksh
+-rwx--x--x sjahaf/users      153 2016-03-29 18:51 home/sjahaf/chapter12/debug.ksh
+-rw------- sjahaf/users       19 2016-03-29 17:51 home/sjahaf/chapter12/file1
+-rwx--x--x sjahaf/users      190 2016-03-24 18:57 home/sjahaf/chapter12/grave.sh
+-rwx--x--x sjahaf/users      358 2016-03-29 19:06 home/sjahaf/chapter12/sqrtFunction.ksh
+-rwx--x--x sjahaf/users      279 2016-03-29 17:43 home/sjahaf/chapter12/seasonCase.csh
+-rwx--x--x sjahaf/users      113 2016-03-24 18:35 home/sjahaf/chapter12/test3.ksh
+-rwx--x--x sjahaf/users      109 2016-03-29 18:32 home/sjahaf/chapter12/whilePerl.perl
+drwx--x--x sjahaf/users        0 2016-02-11 19:05 home/sjahaf/homework3/
+-rw------- sjahaf/users      978 2016-02-11 19:05 home/sjahaf/homework3/homework3.output
+-rw------- sjahaf/users      841 2016-02-11 19:02 home/sjahaf/homework3/homework3.txt
+-rw------- sjahaf/users      243 2016-02-11 19:05 home/sjahaf/homework3/homework3.sh
+-rwx--x--x sjahaf/users      256 2016-03-31 19:03 home/sjahaf/commandArguments.bash
+-rw------- sjahaf/users  8748407 2016-04-26 18:48 home/sjahaf/home.tgz
+-rw-r--r-- sjahaf/users      271 2016-04-14 21:05 home/sjahaf/.bashrc
+-rw------- sjahaf/users      307 2016-03-17 20:58 home/sjahaf/phone.number
+-rw------- sjahaf/users      267 2016-03-17 19:05 home/sjahaf/tsCh9Q7
+-rw-r--r-- sjahaf/users      176 2014-10-16 09:56 home/sjahaf/.bash_profile
+drwx--x--x sjahaf/users        0 2016-04-26 17:26 home/sjahaf/chapter13TS/
+drwxr-xr-x sjahaf/users        0 2016-04-26 18:07 home/sjahaf/chapter13TS/chapter13ts/
+-rw-r--r-- sjahaf/users      170 2015-04-12 14:00 home/sjahaf/chapter13TS/chapter13ts/sqroot1.cpp
+-rw------- sjahaf/users        9 2016-04-26 17:57 home/sjahaf/chapter13TS/chapter13ts/side2
+-rw------- sjahaf/users        9 2016-04-26 17:57 home/sjahaf/chapter13TS/chapter13ts/side1
+-rw-r--r-- sjahaf/users      181 2015-04-12 14:02 home/sjahaf/chapter13TS/chapter13ts/sqrt.cpp
+-rwx--x--x sjahaf/users     7189 2016-04-26 17:32 home/sjahaf/chapter13TS/chapter13ts/hyp
+-rw-r--r-- sjahaf/users      243 2014-10-28 15:22 home/sjahaf/chapter13TS/chapter13ts/hypotenuse.cpp
+-rw------- sjahaf/users      178 2016-04-26 18:07 home/sjahaf/chapter13TS/chapter13ts/done
+-rwx--x--x sjahaf/users      507 2016-04-26 17:55 home/sjahaf/chapter13TS/chapter13ts/hyp2.ksh
+-rwx--x--x sjahaf/users      492 2016-04-26 17:37 home/sjahaf/chapter13TS/chapter13ts/hyp.bash
+-rwx--x--x sjahaf/users      714 2016-04-26 18:06 home/sjahaf/chapter13TS/chapter13ts/hyp3.ksh
+-rw-r--r-- sjahaf/users      721 2013-11-17 16:53 home/sjahaf/chapter13TS/chapter13ts/triangle1.c
+-rw-r--r-- sjahaf/users     1132 2013-11-17 16:53 home/sjahaf/chapter13TS/chapter13ts/triangle.c
+-rw-r--r-- sjahaf/users      176 2013-11-17 16:53 home/sjahaf/chapter13TS/chapter13ts/add.c
+-rw-r--r-- sjahaf/users      243 2014-10-28 15:22 home/sjahaf/chapter13TS/chapter13ts/hypotenuse.c
+drwx--x--x sjahaf/users        0 2016-04-14 22:15 home/sjahaf/homework10/
+-rwx--x--x sjahaf/users     1334 2016-04-14 22:15 home/sjahaf/homework10/homework10.ksh
+-rw------- sjahaf/users      134 2016-04-14 19:07 home/sjahaf/homework10/sales.file
+drwxr-xr-x sjahaf/users        0 2015-05-20 09:53 home/sjahaf/public_html/
+drwx------ sjahaf/root         0 2015-05-20 09:53 home/sjahaf/public_html/cis122/
+-rw-r--r-- sjahaf/users       81 2015-05-07 23:50 home/sjahaf/public_html/cis122/style3.css
+-rw-r--r-- sjahaf/users    31871 2015-02-23 19:14 home/sjahaf/public_html/cis122/alfredo.jpg
+-rw-r--r-- sjahaf/users      695 2015-05-08 10:46 home/sjahaf/public_html/cis122/final.php
+-rw-r--r-- sjahaf/users    10793 2015-04-22 18:28 home/sjahaf/public_html/cis122/order.php
+-rw-r--r-- sjahaf/users    75776 2015-03-30 19:17 home/sjahaf/public_html/cis122/Thumbs.db
+-rw-r--r-- sjahaf/users     3696 2015-03-02 19:09 home/sjahaf/public_html/cis122/menu2.html
+-rw-r--r-- sjahaf/users      468 2015-04-27 19:18 home/sjahaf/public_html/cis122/assign6a.php
+-rw-r--r-- sjahaf/users      423 2015-04-08 18:44 home/sjahaf/public_html/cis122/functions.js
+-rw-r--r-- sjahaf/users    10406 2015-03-25 19:19 home/sjahaf/public_html/cis122/order.html
+-rw-r--r-- sjahaf/users     1084 2015-05-08 09:50 home/sjahaf/public_html/cis122/assign6b.php
+-rw-r--r-- sjahaf/users    35873 2015-03-02 18:51 home/sjahaf/public_html/cis122/bananasplit.jpg
+-rw-r--r-- sjahaf/users      710 2015-05-08 01:26 home/sjahaf/public_html/cis122/bill.php
+-rw-r--r-- sjahaf/users   135032 2015-02-23 19:14 home/sjahaf/public_html/cis122/header.jpg
+-rw-r--r-- sjahaf/users      544 2015-05-08 01:21 home/sjahaf/public_html/cis122/Bill.php
+-rw-r--r-- sjahaf/users    59608 2015-03-30 18:56 home/sjahaf/public_html/cis122/pastrami.jpg
+-rw-r--r-- sjahaf/users     1473 2015-04-13 19:19 home/sjahaf/public_html/cis122/style.css
+-rw-r--r-- sjahaf/users     8556 2015-04-08 18:44 home/sjahaf/public_html/cis122/creditcard.js
+-rw-r--r-- sjahaf/users     5111 2015-04-27 18:03 home/sjahaf/public_html/cis122/order2.php
+-rw-r--r-- sjahaf/users     1056 2015-05-08 10:49 home/sjahaf/public_html/cis122/final.html
+-rw-r--r-- sjahaf/users    26943 2015-03-01 20:45 home/sjahaf/public_html/cis122/nachos.jpg
+-rw-r--r-- sjahaf/users     3601 2015-03-02 19:09 home/sjahaf/public_html/cis122/menu.html
+-rw-r--r-- sjahaf/users      249 2015-05-08 10:50 home/sjahaf/public_html/cis122/final.css
+drwxr-xr-x sjahaf/users        0 2016-04-26 18:28 home/sjahaf/chapter14TS/
+-rwxr-xr-x sjahaf/users      173 2015-12-07 09:36 home/sjahaf/chapter14TS/countdown.py
+-rw-r--r-- sjahaf/users     4626 2015-04-19 11:48 home/sjahaf/chapter14TS/Hidden
+-rw------- sjahaf/users       96 2016-04-26 18:27 home/sjahaf/chapter14TS/.plan
+-rwxr-xr-x sjahaf/users      581 2015-12-07 09:27 home/sjahaf/chapter14TS/countdown.ksh
+-rw-r--r-- sjahaf/users     4626 2015-04-19 11:48 home/sjahaf/chapter14TS/BIG_FILE
+-rw------- sjahaf/users       71 2016-04-26 18:28 home/sjahaf/chapter14TS/.project
+-rwxr-xr-x sjahaf/users      184 2015-04-19 12:09 home/sjahaf/chapter14TS/test.ksh
+-rwxr-xr-x sjahaf/users      242 2015-04-19 12:12 home/sjahaf/chapter14TS/test1.py
+-rw------- sjahaf/users      172 2016-03-15 19:11 home/sjahaf/file.tee
+-rw------- sjahaf/users      390 2016-04-27 12:20 home/sjahaf/finger.rjames
+drwx--x--x sjahaf/users        0 2016-01-14 17:45 home/sjahaf/chapter1/
+-rw------- sjahaf/users      125 2016-03-29 18:07 home/sjahaf/.history
+-rw------- sjahaf/users      434 2016-04-27 12:20 home/sjahaf/finger.sjahaf
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/
+-rwx--xr-x sjahaf/users     2201 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 2-3.vls
+-rwx--xr-x sjahaf/users     3128 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 2-4.vls
+-rwx--xr-x sjahaf/users     9126 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 5-2.vls
+-rwx--xr-x sjahaf/users     4986 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 3-4.vls
+-rwx--xr-x sjahaf/users     4839 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 2-8.vls
+-rwx--xr-x sjahaf/users     5123 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 1-6.vls
+-rwx--xr-x sjahaf/users    10900 2015-04-15 10:21 home/sjahaf/Cis125/VBProgram1.vls
+-rwx--xr-x sjahaf/users     2372 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 4-2.vls
+-rwx--xr-x sjahaf/users     5639 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 3-3.vls
+-rwx--xr-x sjahaf/users     3891 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 1-7.vls
+-rwx--xr-x sjahaf/users     3486 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 4-3.vls
+-rwx--xr-x sjahaf/users     4892 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 2-7.vls
+-rwx--xr-x sjahaf/users     1972 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 3-4.vls
+-rwx--xr-x sjahaf/users       64 2015-04-15 10:21 home/sjahaf/Cis125/SallehJahaf.vlsig
+-rwx--xr-x sjahaf/users     2183 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 2-9.vls
+-rwx--xr-x sjahaf/users     3567 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 2-3.vls
+-rwx--xr-x sjahaf/users     1871 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 1-4.vls
+-rwx--xr-x sjahaf/users     7999 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 3-Bonus.vls
+-rwx--xr-x sjahaf/users    10701 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 5-2.vls
+-rwx--xr-x sjahaf/users     3091 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 3-7.vls
+-rwx--xr-x sjahaf/users     2913 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 3-6.vls
+-rwx--xr-x sjahaf/users     6633 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 4-4.vls
+-rwx--xr-x sjahaf/users     3338 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 2-7.vls
+-rwx--xr-x sjahaf/users     4086 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 2-5.vls
+-rwx--xr-x sjahaf/users     8386 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 4-4.vls
+-rwx--xr-x sjahaf/users     4848 2015-04-15 10:21 home/sjahaf/Cis125/Assignment 2-4.vls
+-rwx--xr-x sjahaf/users     4795 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 1-7.vls
+-rwx--xr-x sjahaf/users     2401 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 3-5.vls
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/
+-rwx--xr-x sjahaf/users      143 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/VB Example.vbproj.user
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/
+-rwx--xr-x sjahaf/users    25088 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.exe
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/TempPE/
+-rwx--xr-x sjahaf/users     7680 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+-rwx--xr-x sjahaf/users      917 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.vbproj.GenerateResource.Cache
+-rwx--xr-x sjahaf/users      180 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB_Example.Resources.resources
+-rwx--xr-x sjahaf/users     6512 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+-rwx--xr-x sjahaf/users    36352 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.pdb
+-rwx--xr-x sjahaf/users      673 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.vbproj.FileListAbsolute.txt
+-rwx--xr-x sjahaf/users      674 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Debug/VB Example.xml
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/obj/Release/
+-rwx--xr-x sjahaf/users      834 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/Module1.vb
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/App.config
+-rwx--xr-x sjahaf/users    32256 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/VB Example.v11.suo
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/
+-rwx--xr-x sjahaf/users    25088 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.exe
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.exe.config
+-rwx--xr-x sjahaf/users    36352 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.pdb
+-rwx--xr-x sjahaf/users    22984 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.vshost.exe
+-rwx--xr-x sjahaf/users      674 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.xml
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Debug/VB Example.vshost.exe.config
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/bin/Release/
+-rwx--xr-x sjahaf/users      909 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/VB Example.sln
+-rwx--xr-x sjahaf/users     4816 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/VB Example.vbproj
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/
+-rwx--xr-x sjahaf/users     5612 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Resources.resx
+-rwx--xr-x sjahaf/users     1173 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/AssemblyInfo.vb
+-rwx--xr-x sjahaf/users     2781 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Resources.Designer.vb
+-rwx--xr-x sjahaf/users      481 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Application.myapp
+-rwx--xr-x sjahaf/users      279 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Settings.settings
+-rwx--xr-x sjahaf/users      441 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Application.Designer.vb
+-rwx--xr-x sjahaf/users     2999 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VB Example/My Project/Settings.Designer.vb
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/PracticeEx 6-1/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/PracticeEx 6-1/My Project/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/
+-rwx--xr-x sjahaf/users      929 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Annual Sales Project.sln
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/
+-rwx--xr-x sjahaf/users      917 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.vbproj.GenerateResource.Cache
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/TempPE/
+-rwx--xr-x sjahaf/users     7680 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+-rwx--xr-x sjahaf/users      180 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual_Sales_Project.Resources.resources
+-rwx--xr-x sjahaf/users      716 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.xml
+-rwx--xr-x sjahaf/users     6562 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+-rwx--xr-x sjahaf/users    40448 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.pdb
+-rwx--xr-x sjahaf/users    26624 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.exe
+-rwx--xr-x sjahaf/users      873 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Debug/Annual Sales Project.vbproj.FileListAbsolute.txt
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/obj/Release/
+-rwx--xr-x sjahaf/users     3516 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Module1.vb
+-rwx--xr-x sjahaf/users      143 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Annual Sales Project.vbproj.user
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/App.config
+-rwx--xr-x sjahaf/users     4866 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Annual Sales Project.vbproj
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.exe.config
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.vshost.exe.config
+-rwx--xr-x sjahaf/users      716 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.xml
+-rwx--xr-x sjahaf/users    22984 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.vshost.exe
+-rwx--xr-x sjahaf/users    40448 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.pdb
+-rwx--xr-x sjahaf/users    26624 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Debug/Annual Sales Project.exe
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/bin/Release/
+-rwx--xr-x sjahaf/users    35328 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/Annual Sales Project.v11.suo
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/
+-rwx--xr-x sjahaf/users     5612 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Resources.resx
+-rwx--xr-x sjahaf/users     1193 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/AssemblyInfo.vb
+-rwx--xr-x sjahaf/users     2791 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Resources.Designer.vb
+-rwx--xr-x sjahaf/users      481 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Application.myapp
+-rwx--xr-x sjahaf/users      279 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Settings.settings
+-rwx--xr-x sjahaf/users      441 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Application.Designer.vb
+-rwx--xr-x sjahaf/users     3019 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/Annual Sales Project/My Project/Settings.Designer.vb
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/TempPE/
+-rwx--xr-x sjahaf/users     7680 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+-rwx--xr-x sjahaf/users      672 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.xml
+-rwx--xr-x sjahaf/users     1403 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.vbproj.FileListAbsolute.txt
+-rwx--xr-x sjahaf/users     6512 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+-rwx--xr-x sjahaf/users      917 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.vbproj.GenerateResource.Cache
+-rwx--xr-x sjahaf/users    38400 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.pdb
+-rwx--xr-x sjahaf/users    25600 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.exe
+-rwx--xr-x sjahaf/users      180 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Debug/VBProgram1.Resources.resources
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/obj/Release/
+-rwx--xr-x sjahaf/users     1846 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/Module1.vb
+-rwx--xr-x sjahaf/users    27136 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/VBProgram1.v11.suo
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/App.config
+-rwx--xr-x sjahaf/users      143 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/VBProgram1.vbproj.user
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.vshost.exe.config
+-rwx--xr-x sjahaf/users      187 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.exe.config
+-rwx--xr-x sjahaf/users    22984 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.vshost.exe
+-rwx--xr-x sjahaf/users      490 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.vshost.exe.manifest
+-rwx--xr-x sjahaf/users      672 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.xml
+-rwx--xr-x sjahaf/users    38400 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.pdb
+-rwx--xr-x sjahaf/users    25600 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Debug/VBProgram1.exe
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/bin/Release/
+-rwx--xr-x sjahaf/users     4816 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/VBProgram1.vbproj
+-rwx--xr-x sjahaf/users      909 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/VBProgram1.sln
+drwx--xr-x sjahaf/users        0 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/
+-rwx--xr-x sjahaf/users     5612 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Resources.resx
+-rwx--xr-x sjahaf/users     1173 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/AssemblyInfo.vb
+-rwx--xr-x sjahaf/users     2781 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Resources.Designer.vb
+-rwx--xr-x sjahaf/users      481 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Application.myapp
+-rwx--xr-x sjahaf/users      279 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Settings.settings
+-rwx--xr-x sjahaf/users      441 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Application.Designer.vb
+-rwx--xr-x sjahaf/users     2999 2015-04-15 10:21 home/sjahaf/Cis125/CIS125 VB Projects/VBProgram1/My Project/Settings.Designer.vb
+-rwx--xr-x sjahaf/users     2942 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 4-3.vls
+-rwx--xr-x sjahaf/users     2319 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 1-8.vls
+-rwx--xr-x sjahaf/users     1715 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 3-3.vls
+-rwx--xr-x sjahaf/users     3340 2015-04-15 10:21 home/sjahaf/Cis125/PracticeEx 2-11.vls
+drwx--x--x sjahaf/users        0 2016-01-25 22:36 home/sjahaf/chapter3/
+-rw------- sjahaf/users       74 2016-01-21 19:04 home/sjahaf/chapter3/ts3Number2
+-rw------- sjahaf/users       11 2016-01-21 18:43 home/sjahaf/chapter3/ts3example
+-rw------- sjahaf/users      155 2016-01-25 22:35 home/sjahaf/chapter3/ts3Number4
+-rw------- sjahaf/users      200 2016-01-21 18:50 home/sjahaf/chapter3/ts3Number1
+-rw------- sjahaf/users     2055 2016-01-25 22:36 home/sjahaf/chapter3/ts3Number5
+-rw------- sjahaf/users       36 2016-01-21 19:08 home/sjahaf/chapter3/ts3Number3
+-rw------- sjahaf/users       88 2016-03-17 21:34 home/sjahaf/first.mail
+-rw------- sjahaf/users      440 2016-03-17 22:12 home/sjahaf/dead.letter
+drwx--x--x sjahaf/users        0 2016-04-19 17:32 home/sjahaf/chapter14/
+drwxr-xr-x sjahaf/users        0 2016-04-19 18:40 home/sjahaf/chapter14/chapter14/
+-rwxr-xr-x sjahaf/users      173 2015-12-07 09:36 home/sjahaf/chapter14/chapter14/countdown.py
+-rw-r--r-- sjahaf/users     4626 2015-04-19 11:48 home/sjahaf/chapter14/chapter14/Hidden
+-rw-r--r-- sjahaf/users      126 2015-12-07 09:47 home/sjahaf/chapter14/chapter14/.plan
+-rwxr-xr-x sjahaf/users      581 2015-12-07 09:27 home/sjahaf/chapter14/chapter14/countdown.ksh
+-rw------- sjahaf/users  2919025 2016-04-19 18:28 home/sjahaf/chapter14/chapter14/etc1.tar.gz
+-rw------- sjahaf/users  2227218 2016-04-19 18:28 home/sjahaf/chapter14/chapter14/etc2.tar.bz2
+-rw-r--r-- sjahaf/users     4626 2015-04-19 11:48 home/sjahaf/chapter14/chapter14/BIG_FILE
+-rw------- sjahaf/users        0 2016-04-19 18:14 home/sjahaf/chapter14/chapter14/George
+-rwxr-xr-x sjahaf/users      184 2015-04-19 12:09 home/sjahaf/chapter14/chapter14/test.ksh
+-rwxr-xr-x sjahaf/users      242 2015-04-19 12:12 home/sjahaf/chapter14/chapter14/test1.py
+-rw------- sjahaf/users 10209280 2016-04-19 18:28 home/sjahaf/chapter14/chapter14/etc.tar
+-rw------- sjahaf/users       96 2016-04-26 18:27 home/sjahaf/.plan
+-rw------- sjahaf/users       35 2016-02-11 17:36 home/sjahaf/.lesshst
+-rw-r--r-- sjahaf/users       18 2014-10-16 09:56 home/sjahaf/.bash_logout
+drwx--x--x sjahaf/users        0 2016-02-12 21:04 home/sjahaf/chapter6/
+-rw------- sjahaf/users     1793 2016-02-12 21:04 home/sjahaf/chapter6/chapter6.output3
+-rw------- sjahaf/users      904 2016-02-12 20:48 home/sjahaf/chapter6/chapter6.output2
+-rw------- sjahaf/users     1786 2016-02-12 21:04 home/sjahaf/chapter6/garden
+-rw------- sjahaf/users      860 2016-02-12 20:29 home/sjahaf/chapter6/chapter6.output1
+drwx--x--x sjahaf/users        0 2016-03-17 21:48 home/sjahaf/email/
+-rw------- sjahaf/users      235 2016-03-17 22:12 home/sjahaf/email/first.mail
+-rw------- sjahaf/users        0 2016-03-17 21:24 home/sjahaf/email/mbox
+-rw------- sjahaf/users        0 2016-03-17 21:24 home/sjahaf/email/keep
+drwx--x--x sjahaf/users        0 2016-02-25 21:10 home/sjahaf/chapter8/
+-rw-r----- sjahaf/users       61 2016-02-25 00:33 home/sjahaf/chapter8/ch8ts.txt
+drwx--x--x sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/two/
+-rw-r--r-- sjahaf/users       24 2014-02-18 13:28 home/sjahaf/chapter8/names
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/name2
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/file3
+drwxr----- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/one/
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/file2
+-rwxr-xr-x sjahaf/users        6 2016-02-25 21:10 home/sjahaf/chapter8/filepermissions
+drwx--x--x sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/three/
+-rwxr-xr-x sjahaf/users       18 2016-02-25 20:15 home/sjahaf/chapter8/find_file1
+drwxr-xr-x sjahaf/users        0 2016-02-12 17:36 home/sjahaf/chapter8/chapter8/
+-rw------- sjahaf/users      425 2015-02-05 18:17 home/sjahaf/chapter8/chapter8/ch8ts.txt
+-rw-r--r-- sjahaf/users       24 2014-02-18 13:44 home/sjahaf/chapter8/chapter8/first
+-rw-r--r-- sjahaf/users       24 2014-02-18 13:28 home/sjahaf/chapter8/chapter8/names
+-rw-r--r-- sjahaf/users       24 2014-02-18 13:19 home/sjahaf/chapter8/chapter8/name2
+-rw-r--r-- sjahaf/users       12 2014-02-18 13:44 home/sjahaf/chapter8/chapter8/second
+-rw-r--r-- sjahaf/users      124 2014-02-18 13:42 home/sjahaf/chapter8/chapter8/phone
+-rw-r--r-- sjahaf/users        0 2014-02-18 13:33 home/sjahaf/chapter8/chapter8/FILE1
+-rw-r--r-- sjahaf/users    10531 2014-10-16 18:03 home/sjahaf/chapter8/chapter8/large
+-rw-r--r-- sjahaf/users        0 2014-02-18 13:33 home/sjahaf/chapter8/chapter8/File1
+-rw-r--r-- sjahaf/users       12 2014-02-18 13:21 home/sjahaf/chapter8/chapter8/scores
+-rw-r--r-- sjahaf/users       24 2014-02-18 13:28 home/sjahaf/chapter8/chapter8/name1
+-rw-r--r-- sjahaf/users      425 2015-02-05 18:17 home/sjahaf/chapter8/chapter8/science.txt
+-rw-r--r-- sjahaf/users       12 2014-02-18 13:21 home/sjahaf/chapter8/scores
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/name1
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/file1
+-rw------- sjahaf/users        0 2016-02-25 00:30 home/sjahaf/chapter8/name3
+-rw-r--r-- sjahaf/users      425 2015-02-05 18:17 home/sjahaf/chapter8/science.txt
+-rw------- sjahaf/users       71 2016-04-26 18:28 home/sjahaf/.project
+-rw------- sjahaf/users        0 2016-03-17 22:05 home/sjahaf/.forward
+drwx--x--x sjahaf/users        0 2016-02-04 18:56 home/sjahaf/Chapter4/
+-rw------- sjahaf/users      160 2016-01-26 18:17 home/sjahaf/Chapter4/first
+-rw------- sjahaf/users      788 2016-01-26 18:37 home/sjahaf/Chapter4/second
+-rw------- sjahaf/users       21 2016-02-02 17:44 home/sjahaf/Chapter4/file3
+-rw------- sjahaf/users       88 2016-02-02 18:01 home/sjahaf/Chapter4/file2
+-rw------- sjahaf/users      148 2016-02-04 18:41 home/sjahaf/Chapter4/Chapter4.output1
+-rw------- sjahaf/users      630 2016-02-04 18:49 home/sjahaf/Chapter4/Chapter4
+-rw------- sjahaf/users      630 2016-02-04 18:56 home/sjahaf/Chapter4/Chapter4.output4
+-rw------- sjahaf/users      505 2016-02-04 18:45 home/sjahaf/Chapter4/Chapter4.output2
+-rwx--x--x sjahaf/users      194 2016-02-02 18:24 home/sjahaf/Chapter4/file1
+-rw------- sjahaf/users     1260 2016-02-04 18:54 home/sjahaf/Chapter4/Chapter4.output3
+-rw------- sjahaf/users      307 2016-03-17 20:56 home/sjahaf/phone.lastname
+-rw------- sjahaf/users        0 2016-03-17 22:10 home/sjahaf/mbox
+-rw------- sjahaf/users       36 2016-03-17 21:22 home/sjahaf/.mailrc
+-rw-r--r-- sjahaf/users      658 2014-11-05 06:20 home/sjahaf/.zshrc
+-rw------- sjahaf/users      307 2016-03-17 20:59 home/sjahaf/phone.reverse
+drwx------ sjahaf/users        0 2016-04-27 12:16 home/sjahaf/.ssh/
+-rw-r--r-- sjahaf/users      396 2016-04-27 12:16 home/sjahaf/.ssh/known_hosts
+-rw------- sjahaf/users  8077873 2016-04-26 18:41 home/sjahaf/home.tar.bz2
+drwx--x--x sjahaf/users        0 2016-04-21 18:31 home/sjahaf/project1/
+-rwx--x--x sjahaf/users      476 2016-04-21 18:30 home/sjahaf/project1/project1.sh
+-rw------- sjahaf/users     1468 2016-04-21 18:31 home/sjahaf/project1/output.txt
+-rw------- sjahaf/users       23 2016-02-02 18:11 home/sjahaf/.vimrc
+-rw------- sjahaf/users       85 2016-02-23 18:10 home/sjahaf/myfile
+drwx--x--x sjahaf/users        0 2016-03-31 18:33 home/sjahaf/chapter11/
+drwx--x--x sjahaf/users        0 2016-03-31 18:24 home/sjahaf/chapter11/auto/
+drwxr-xr-x sjahaf/users        0 2016-03-31 18:32 home/sjahaf/chapter11/auto/auto/
+-rw-r--r-- sjahaf/users       92 2014-01-14 18:57 home/sjahaf/chapter11/auto/auto/hi.cpp
+-rw-r--r-- sjahaf/users      178 2014-10-28 15:24 home/sjahaf/chapter11/auto/auto/sqroot.c
+-rw------- sjahaf/users      259 2016-03-31 18:32 home/sjahaf/chapter11/auto/auto/Makefile
+-rw-r--r-- sjahaf/users       78 2013-11-17 16:53 home/sjahaf/chapter11/auto/auto/hello.c
+-rwx--x--x sjahaf/users     6417 2016-03-31 18:31 home/sjahaf/chapter11/auto/auto/hello
+-rwx--x--x sjahaf/users     8789 2016-03-31 18:07 home/sjahaf/chapter11/hyp
+-rwx--x--x sjahaf/users     6980 2016-03-15 18:52 home/sjahaf/chapter11/add
+-rw------- sjahaf/users       56 2016-03-31 18:33 home/sjahaf/chapter11/hyp.output
+-rwx--x--x sjahaf/users     6611 2016-03-31 17:34 home/sjahaf/chapter11/a.out
+-rwx--x--x sjahaf/users     8789 2016-03-15 18:33 home/sjahaf/chapter11/hypotenuse
+-rw-r--r-- sjahaf/users      209 2016-03-31 17:37 home/sjahaf/chapter11/add.c
+drwxr-xr-x sjahaf/users        0 2016-03-31 17:57 home/sjahaf/chapter11/chapter11/
+drwxr-xr-x sjahaf/users        0 2016-03-11 13:48 home/sjahaf/chapter11/chapter11/auto/
+-rw-r--r-- sjahaf/users       92 2014-01-14 18:57 home/sjahaf/chapter11/chapter11/auto/hi.cpp
+-rw-r--r-- sjahaf/users      178 2014-10-28 15:24 home/sjahaf/chapter11/chapter11/auto/sqroot.c
+-rw-r--r-- sjahaf/users       78 2013-11-17 16:53 home/sjahaf/chapter11/chapter11/auto/hello.c
+-rwx--x--x sjahaf/users     8789 2016-03-31 17:57 home/sjahaf/chapter11/chapter11/hyp
+-rwx--x--x sjahaf/users     6611 2016-03-31 17:45 home/sjahaf/chapter11/chapter11/a.out
+-rw-r--r-- sjahaf/users      179 2015-03-25 11:45 home/sjahaf/chapter11/chapter11/add.c
+-rw-r--r-- sjahaf/users      339 2015-11-08 14:19 home/sjahaf/chapter11/chapter11/hypotenuse.c
+-rw-r--r-- sjahaf/users      339 2015-11-08 14:19 home/sjahaf/chapter11/hypotenuse.c
+-rw------- sjahaf/users        0 2016-04-27 12:20 home/sjahaf/output.home.tar
+-rw------- sjahaf/users      307 2016-03-17 20:49 home/sjahaf/phone.firstname
+-rw------- sjahaf/users        0 2016-03-17 22:10 home/sjahaf/keep
+-rwx--xr-x sjahaf/users       94 2015-04-20 18:52 home/sjahaf/logincode.php
