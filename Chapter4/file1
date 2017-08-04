@@ -1,0 +1,12 @@
+echo "this is a echo statement"
+# this is a comment
+echo 'another echo statement'
+pwd; ls
+this is a test
+
+echo "this a echo statement"
+# this is a comment
+echo 'another echo statement'
+pwd
+ls
+ 
